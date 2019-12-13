@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Install SQL Management Studio v18",
+  "description": "This template allows you to deploy a Windows VM and run a custom PowerShell script to Install SQL Management Studio v18",
+  "summary": "Deploys a Windows VM and Install SQL Management Studio v18 using the Custom Script Extension",
+  "githubUsername": "ReplyQuickStart",
+  "dateUpdated": "2019-12-12"
+}
+
+
