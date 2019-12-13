@@ -1,7 +1,7 @@
 # Deploy a Windows VM and execute a custom PowerShell script.
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/ReplyQuickStart/AzureVM-SQL/master/azuredeploy.json" target="_blank">
-    <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png"/>
+    <img src="https://azuredeploy.net/deploybutton.png"/>
 </a>
 
 
