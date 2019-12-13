@@ -1,4 +1,4 @@
-# Deploy a Windows VM and execute a custom PowerShell script to download and install SQL Server Management Studio.
+# Deploy Windows VM and execute a custom PowerShell script to download and install SQL Server Management Studio.
 
 [![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net)
 
