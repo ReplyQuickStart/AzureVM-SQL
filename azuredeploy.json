@@ -37,13 +37,13 @@
     }
   },
   "variables": {
-    "nicName": "myVMNic",
+    "nicName": "VM01Nic",
     "addressPrefix": "10.3.0.0/16",
     "subnetName": "Subnet",
     "subnetPrefix": "10.3.0.0/24",
     "subnetRef": "[resourceId('Microsoft.Network/virtualNetworks/subnets', variables('virtualNetworkName'), variables('subnetName'))]",
-    "vmName": "MyVM",
-    "virtualNetworkName": "MyVNET",
+    "vmName": "VM01",
+    "virtualNetworkName": "VNET-01",
     "publicIPAddressName": "myPublicIP",
     "dnsNameForPublicIP": "[uniqueString(resourceGroup().id)]",
     "scriptFolder": ".",
