@@ -44,7 +44,7 @@
     "subnetRef": "[resourceId('Microsoft.Network/virtualNetworks/subnets', variables('virtualNetworkName'), variables('subnetName'))]",
     "vmName": "VM01",
     "virtualNetworkName": "VNET-01",
-    "publicIPAddressName": "myPublicIP",
+    "publicIPAddressName": "VM01PublicIP",
     "dnsNameForPublicIP": "[uniqueString(resourceGroup().id)]",
     "scriptFolder": ".",
     "scriptFileName": "Setup-ssms.ps1",
